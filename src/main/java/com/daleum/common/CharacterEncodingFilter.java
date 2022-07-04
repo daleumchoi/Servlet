@@ -1,4 +1,4 @@
-package com.daleum.servlet.common;
+package com.daleum.common;
 
 import java.io.IOException;
 
